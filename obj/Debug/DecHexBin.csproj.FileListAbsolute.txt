@@ -1,0 +1,17 @@
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Properties.Resources.resources
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\DecHexBin.csproj.GenerateResource.Cache
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.exe
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe.config
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.pdb
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\DecHexBin.Form1.resources
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.pdb
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe.config
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.exe
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.pdb
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.pdb
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\obj\Debug\DecHexBin.csprojResolveAssemblyReference.cache
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\obj\Debug\DecHexBin.Form1.resources
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Properties.Resources.resources
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter\obj\Debug\DecHexBin.csproj.GenerateResource.Cache

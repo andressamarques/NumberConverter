@@ -1,0 +1,45 @@
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe.config
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Form1.resources
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Properties.Resources.resources
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csproj.GenerateResource.Cache
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.pdb
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.pdb
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe.config
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.exe
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.pdb
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Form1.resources
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Properties.Resources.resources
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\NumbeToBinaryConverter-2016-07-15\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.pdb
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe.config
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.exe
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.pdb
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.pdb
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Form1.resources
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Properties.Resources.resources
+C:\Users\usuario\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csproj.GenerateResource.Cache
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe.config
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.exe
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.pdb
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.pdb
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Form1.resources
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Properties.Resources.resources
+C:\Users\ronald.junior\Documents\NumbeToBinaryConverter\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csproj.GenerateResource.Cache
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe.config
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.exe
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.pdb
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.exe
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\bin\Debug\NumbeToBinaryConverter.pdb
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Form1.resources
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.Properties.Resources.resources
+C:\Users\andressa.marques\Desktop\NumbeToBinaryConverter-master (2)\NumbeToBinaryConverter-master\NumbeToBinaryConverter\obj\Debug\NumbeToBinaryConverter.csproj.GenerateResource.Cache
